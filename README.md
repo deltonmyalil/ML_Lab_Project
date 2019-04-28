@@ -1,8 +1,8 @@
 # ML_Lab_Project
-Submitted by
+Submitted by<br>
 Amrit Majumder - 18MCMI01<br>
-Delton M Antony - 18MCMI05
-Ashutosh Mahawar - 18MCMI23
+Delton M Antony - 18MCMI05<br>
+Ashutosh Mahawar - 18MCMI23<br
 
 You need to run the data retrieval script and wait till the 4GB data is downloaded.
 This will only work if you retrieve the wiki processed data and not the raw data.

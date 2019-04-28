@@ -1,6 +1,6 @@
 # ML_Lab_Project
 Submitted by
-Amrit Majumder - 18MCMI01
+Amrit Majumder - 18MCMI01<br>
 Delton M Antony - 18MCMI05
 Ashutosh Mahawar - 18MCMI23
 
